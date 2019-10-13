@@ -1,2 +1,4 @@
-# c-programming-language
-C Programming Language
+# C Programming Laguage (2nd edition)
+
+## Progress
+Chapter 1
